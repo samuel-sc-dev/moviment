@@ -17,3 +17,35 @@ body {
     color: white;
     padding: 20px;
 }
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 40px;
+    line-height: 1.4;
+}
+
+.btn {
+    display: block;
+    width: 250px;
+    margin: 15px auto;
+    padding: 15px;
+    border: none;
+    border-radius: 40px;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.sim {
+    background-color: #5c628a;
+}
+
+.nao {
+    background-color: #1e7f5c;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
