@@ -3,5 +3,5 @@ function clicouSim() {
 }
 
 function clicouNao() {
-    alert("😢 Que pena!");
+    window.location.href = "https://samuel-sc-dev.github.io/moviment/cv.html";
 }
