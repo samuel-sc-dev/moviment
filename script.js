@@ -1,7 +1,5 @@
 function clicouSim() {
-    alert("🚀 Bem-vindo à viagem!");
-    // aqui você pode redirecionar:
-    // window.location.href = "https://seusite.com";
+    window.location.href = "https://samuel-sc-dev.github.io/moviment/bv.html";
 }
 
 function clicouNao() {
